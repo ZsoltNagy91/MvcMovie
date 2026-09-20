@@ -97,3 +97,4 @@ D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\MvcMovie\obj\Debug\
 D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
 D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
