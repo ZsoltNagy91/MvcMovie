@@ -78,6 +78,7 @@ public class MoviesController : Controller
     // POST: MOVIES/Edit/5
     // To protect from overposting attacks, enable the specific properties you want to bind to.
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+    // GET: Movies/Edit/5
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Edit(int? id, [Bind("Id,Title,ReleaseDate,Genre,Price")] Movie movie)
@@ -110,23 +111,7 @@ public class MoviesController : Controller
         return View(movie);
     }
 
-    // GET: MOVIES/Delete/5
-    public async Task<IActionResult> Delete(int? id)
-    {
-        if (id == null)
-        {
-            return NotFound();
-        }
 
-        var movie = await _context.Movie
-            .FirstOrDefaultAsync(m => m.Id == id);
-        if (movie == null)
-        {
-            return NotFound();
-        }
-
-        return View(movie);
-    }
 
     // POST: MOVIES/Delete/5
     [HttpPost, ActionName("Delete")]
