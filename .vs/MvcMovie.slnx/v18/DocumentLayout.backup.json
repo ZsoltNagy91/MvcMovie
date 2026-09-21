@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\mvcmovie\\mvcmovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:mvcmovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\mvcmovie\\models\\seeddatacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:models\\seeddatacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Views\\Movies\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Movies\\Edit.cshtml",
-              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Views\\Movies\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Movies\\Edit.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAABFAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-21T15:51:29.132Z",
+              "WhenOpened": "2026-09-21T16:29:15.023Z",
               "EditorCaption": ""
             },
             {
@@ -53,47 +41,10 @@
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
               "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAuwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T18:06:12.365Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MvcMovie.csproj",
-              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\MvcMovie.csproj",
-              "RelativeDocumentMoniker": "MvcMovie.csproj",
-              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\MvcMovie.csproj",
-              "RelativeToolTip": "MvcMovie.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-20T17:43:04.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MvcMovieContext.cs",
-              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Data\\MvcMovieContext.cs",
-              "RelativeDocumentMoniker": "Data\\MvcMovieContext.cs",
-              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Data\\MvcMovieContext.cs",
-              "RelativeToolTip": "Data\\MvcMovieContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T17:42:35.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeedDatacs.cs",
-              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Models\\SeedDatacs.cs",
-              "RelativeDocumentMoniker": "Models\\SeedDatacs.cs",
-              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\MvcMovie\\Models\\SeedDatacs.cs",
-              "RelativeToolTip": "Models\\SeedDatacs.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T17:28:20.265Z"
             }
           ]
         }
